@@ -2,7 +2,7 @@
   "name": "vue-router",
   "version": "1.0.0",
   "description": "从零实现vue-router",
-  "main": "index.js",
+  "main": "dist/vue-router.js",
   "scripts": {
     "build": "node build/build.js",
     "test": "echo \"Error: no test specified\" && exit 1"

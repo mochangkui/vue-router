@@ -1,1 +1,6 @@
-console.log('66666666')
+export default class VueRouter {
+  constructor (options = {}) {
+    this.options = options
+    console.log(options)
+  }
+}
